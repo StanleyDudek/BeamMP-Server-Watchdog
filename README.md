@@ -20,5 +20,7 @@ An error handler.
 
 ## What it looks like:
 Running:
+![image](https://user-images.githubusercontent.com/49531350/155889250-20ff3a09-e737-42b6-83cc-dc1b40191eaa.png)
 
 Panic:
+![image](https://user-images.githubusercontent.com/49531350/155889262-83d51cca-c208-42e1-a8fe-702bdae36969.png)
